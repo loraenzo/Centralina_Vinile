@@ -7,7 +7,7 @@
 
 
 // Inserisci url del file DieciMinuti
-const urlGrafico = `https://docs.google.com/spreadsheets/d/134eBRtcrxu3ZCSnbGWcJBWxwWCkAWLwc/gviz/tq?tqx=responseHandler:myCallback`;
+const urlGrafico = `https://docs.google.com/spreadsheets/d/1-gzNU3Pt0WW3cYf6nALyunLn8STXTjHS/gviz/tq?tqx=responseHandler:myCallback`;
 
 
 //ricorda che i link sopra non sono semplicemente copiati dal file google drive, ma sono modificati: la parte finale andrà modificata e sostituita da /gviz/tq... eccetera
@@ -20,7 +20,7 @@ const urlGrafico = `https://docs.google.com/spreadsheets/d/134eBRtcrxu3ZCSnbGWcJ
 //  ----        RICORDA DI AGGIORNARE ANCHE I LINK DELLA CARTELLA ARCHIVIO      -----
 
 
-//  ----        SE CAMBI GLI URL DELLE PèAGINE, SOSTITUISCILI ANCHE NEGLI IF CHE RACCHIUDONO I DUE PEZZI DI CODICE SOTTO      -----
+//  ----        SE CAMBI GLI URL DELLE PAGINE, SOSTITUISCILI ANCHE NEGLI IF CHE RACCHIUDONO I DUE PEZZI DI CODICE SOTTO      -----
 
 
 
